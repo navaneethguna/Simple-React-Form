@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-React-Form/static/css/main.e7fd5d8c.chunk.css",
+    "main.js": "/Simple-React-Form/static/js/main.76ece989.chunk.js",
+    "main.js.map": "/Simple-React-Form/static/js/main.76ece989.chunk.js.map",
+    "runtime-main.js": "/Simple-React-Form/static/js/runtime-main.bbb3f5b5.js",
+    "runtime-main.js.map": "/Simple-React-Form/static/js/runtime-main.bbb3f5b5.js.map",
+    "static/js/2.c27e2ee0.chunk.js": "/Simple-React-Form/static/js/2.c27e2ee0.chunk.js",
+    "static/js/2.c27e2ee0.chunk.js.map": "/Simple-React-Form/static/js/2.c27e2ee0.chunk.js.map",
+    "static/js/3.62caff92.chunk.js": "/Simple-React-Form/static/js/3.62caff92.chunk.js",
+    "static/js/3.62caff92.chunk.js.map": "/Simple-React-Form/static/js/3.62caff92.chunk.js.map",
+    "index.html": "/Simple-React-Form/index.html",
+    "static/css/main.e7fd5d8c.chunk.css.map": "/Simple-React-Form/static/css/main.e7fd5d8c.chunk.css.map",
+    "static/js/2.c27e2ee0.chunk.js.LICENSE.txt": "/Simple-React-Form/static/js/2.c27e2ee0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbb3f5b5.js",
+    "static/js/2.c27e2ee0.chunk.js",
+    "static/css/main.e7fd5d8c.chunk.css",
+    "static/js/main.76ece989.chunk.js"
+  ]
+}
